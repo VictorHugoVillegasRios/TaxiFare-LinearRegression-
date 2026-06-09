@@ -1,5 +1,7 @@
 # 🚖 Predicción de Tarifas de Taxi en Nueva York
 
+![Taxi-LinearRegression-](assets/heroTaxi.png)
+
 Modelo de regresión lineal desarrollado en Python para predecir el costo total de viajes en taxi en Nueva York, utilizando variables operacionales clave como distancia y duración del viaje.
 
 ---
